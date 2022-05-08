@@ -1,0 +1,10 @@
+.root {
+    -fx-background-color: linear-gradient(#fff, #ddd);
+}
+
+.button {
+    -fx-font: 30 "Montserrat";
+    -fx-background-color: gray;
+    -fx-text-fill: white;
+    -fx-stroke: white;
+}
